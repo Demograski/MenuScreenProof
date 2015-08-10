@@ -1,3 +1,0 @@
-C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProofContent\obj\x86\Debug\ResolveAssemblyReference.cache
-I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProofContent\obj\x86\Debug\MenuScreenProofContent.contentprojResolveAssemblyReference.cache
-C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProofContent\obj\x86\Debug\MenuScreenProofContent.contentprojResolveAssemblyReference.cache
