@@ -1,0 +1,111 @@
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnExit.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnLoadGame.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnNewGame.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnOptions.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\GameBG.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\OptionsBG.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\StartScreenBG.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\MenuScreenProof.exe
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\MenuScreenProof.pdb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\MenuScreenProof.exe
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\MenuScreenProof.pdb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempWalk.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempIdle.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempLamp.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempHealth.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempEnemy.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempItem.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempTest.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempIcon.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\youDied.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Fonts\TempFont.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Fonts\healthFont.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\BGM.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Jump_Land.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Jump_off.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Running.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempAttacked.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempDeath.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempLightOn.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Walking.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\BGM.wma
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Test.txt
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Block1.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Block2.xnb
+C:\Users\Sean\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Platform.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnExit.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnLoadGame.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnNewGame.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnOptions.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\GameBG.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\OptionsBG.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\StartScreenBG.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempWalk.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempIdle.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempLamp.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempHealth.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempEnemy.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempItem.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempTest.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempIcon.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\youDied.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Block1.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Block2.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Platform.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Fonts\TempFont.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Fonts\healthFont.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\BGM.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Jump_Land.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Jump_off.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Running.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempAttacked.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempDeath.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempLightOn.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Walking.xnb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\BGM.wma
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Test.txt
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\MenuScreenProof.exe
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\MenuScreenProof.pdb
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\MenuScreenProof.csprojResolveAssemblyReference.cache
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\MenuScreenProof.exe
+I:\My Imaginary Friend(WholeDBoxFolder)\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\MenuScreenProof.pdb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnExit.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnLoadGame.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnNewGame.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnOptions.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\GameBG.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\OptionsBG.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\StartScreenBG.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempWalk.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempIdle.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempLamp.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempHealth.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempEnemy.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempItem.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempTest.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempIcon.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\youDied.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Block1.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Block2.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Fonts\TempFont.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Fonts\healthFont.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\BGM.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Jump_Land.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Jump_off.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Running.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempAttacked.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempDeath.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempLightOn.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Walking.xnb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\BGM.wma
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Test.txt
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\MenuScreenProof.exe
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\MenuScreenProof.pdb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\MenuScreenProof.exe
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\MenuScreenProof.pdb
+C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\obj\x86\Debug\MenuScreenProof.csprojResolveAssemblyReference.cache
