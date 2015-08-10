@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Buttons\BtnExit.png</Source>
+      <Name>Buttons\BtnExit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnExit.xnb</Output>
+      <Time>2011-12-09T15:16:49-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\BtnLoadGame.png</Source>
+      <Name>Buttons\BtnLoadGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnLoadGame.xnb</Output>
+      <Time>2011-12-09T15:16:57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\BtnNewGame.png</Source>
+      <Name>Buttons\BtnNewGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnNewGame.xnb</Output>
+      <Time>2011-12-09T15:17:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\BtnOptions.png</Source>
+      <Name>Buttons\BtnOptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Buttons\BtnOptions.xnb</Output>
+      <Time>2011-12-09T15:17:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\GameBG.jpg</Source>
+      <Name>Screens\GameBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\GameBG.xnb</Output>
+      <Time>2011-12-12T10:09:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\OptionsBG.jpg</Source>
+      <Name>Screens\OptionsBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\OptionsBG.xnb</Output>
+      <Time>2011-12-13T13:30:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\StartScreenBG.jpg</Source>
+      <Name>Screens\StartScreenBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Screens\StartScreenBG.xnb</Output>
+      <Time>2011-12-12T10:11:05-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TempWalk.png</Source>
+      <Name>Sprites\TempWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempWalk.xnb</Output>
+      <Time>2011-12-13T11:26:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TempIdle.png</Source>
+      <Name>Sprites\TempIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempIdle.xnb</Output>
+      <Time>2011-12-13T11:26:49-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TempLamp.png</Source>
+      <Name>Sprites\TempLamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempLamp.xnb</Output>
+      <Time>2011-12-13T11:26:53-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TempHealth.png</Source>
+      <Name>Sprites\TempHealth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempHealth.xnb</Output>
+      <Time>2011-12-13T11:26:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TempEnemy.png</Source>
+      <Name>Sprites\TempEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempEnemy.xnb</Output>
+      <Time>2011-12-13T11:27:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TempItem.png</Source>
+      <Name>Sprites\TempItem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempItem.xnb</Output>
+      <Time>2011-12-13T11:27:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TempTest.png</Source>
+      <Name>Sprites\TempTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempTest.xnb</Output>
+      <Time>2011-12-13T11:27:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TempIcon.png</Source>
+      <Name>Sprites\TempIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\TempIcon.xnb</Output>
+      <Time>2011-12-13T11:27:23-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\youDied.png</Source>
+      <Name>Sprites\youDied</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sprites\youDied.xnb</Output>
+      <Time>2011-12-13T11:31:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Block1.png</Source>
+      <Name>Tiles\Block1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Block1.xnb</Output>
+      <Time>2011-12-13T12:52:35-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Block2.png</Source>
+      <Name>Tiles\Block2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Block2.xnb</Output>
+      <Time>2011-12-13T12:52:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform.png</Source>
+      <Name>Tiles\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Tiles\Platform.xnb</Output>
+      <Time>2011-12-13T12:52:45-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TempFont.spritefont</Source>
+      <Name>Fonts\TempFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Fonts\TempFont.xnb</Output>
+      <Time>2011-12-12T14:22:57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\healthFont.spritefont</Source>
+      <Name>Fonts\healthFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Fonts\healthFont.xnb</Output>
+      <Time>2011-12-13T11:33:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BGM.mp3</Source>
+      <Name>Sounds\BGM</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\BGM.xnb</Output>
+      <Extra>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\BGM.wma</Extra>
+      <Time>2011-12-13T11:34:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Jump_Land.wav</Source>
+      <Name>Sounds\Jump_Land</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Jump_Land.xnb</Output>
+      <Time>2011-12-13T11:34:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Jump_off.wav</Source>
+      <Name>Sounds\Jump_off</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Jump_off.xnb</Output>
+      <Time>2011-12-13T11:34:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Running.wav</Source>
+      <Name>Sounds\Running</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Running.xnb</Output>
+      <Time>2011-12-13T11:34:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TempAttacked.wav</Source>
+      <Name>Sounds\TempAttacked</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempAttacked.xnb</Output>
+      <Time>2011-12-13T11:34:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TempDeath.wav</Source>
+      <Name>Sounds\TempDeath</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempDeath.xnb</Output>
+      <Time>2011-12-13T11:34:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TempLightOn.wav</Source>
+      <Name>Sounds\TempLightOn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\TempLightOn.xnb</Output>
+      <Time>2011-12-13T11:34:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Walking.wav</Source>
+      <Name>Sounds\Walking</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\Sounds\Walking.xnb</Output>
+      <Time>2011-12-13T11:34:43-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProofContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProofContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sean Kennedy\Desktop\MenuScreenProof\MenuScreenProof\MenuScreenProof\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-30T15:58:50.9036336-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
